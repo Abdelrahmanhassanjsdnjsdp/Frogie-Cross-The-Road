@@ -20,7 +20,6 @@ Java game that emulates frogger and crossy roads. Currently updating code struct
 
 ### Acknowledgements
 * Spiritual succesor to a failed infinite frogger game.
-* Later inspired by the CrossyRoad app on android.
 
 
 # Screen Shots
